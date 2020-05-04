@@ -4,4 +4,6 @@ The 'Challenge' folder contains the Mission-to-Mars.ipynb, app.py, scraping.py, 
 
 # Portfolio
 
+A link to the repo containing my portfolio can be found [here](https://github.com/Cwall4/Portfolio).
+
 ![Portfolio Screenshot](Portfolio.png "Portfolio Screenshot")
